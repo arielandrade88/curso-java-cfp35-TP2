@@ -1,3 +1,4 @@
+# curso-java-cfp35-TP2
 # Calculador de IMC (Indice de Masa Corporal)
 
 Aplicacion para calcular el indice de masa corporal que devuelve el estado de la persona.
@@ -15,49 +16,50 @@ Es importante aclarar que al momento de ingresar decimales se debe tener en cuen
 <table>
     <tr>
         <th>
-        <h4><u>Ingrese su peso:</u></h4>
-        <p>70</p>
-        </th>       
+            <h4><u>Ingrese su peso:</u></h4>
+            <p>70</p>
+        </th>
         <th>
-        <h4><u>Ingrese su altura:</u></h4>
-        <p>1,70</p>
-        </th>       
+            <h4><u>Ingrese su altura:</u></h4>
+            <p>1,70</p>
+        </th>
     </tr>
-            <th>
-        <h4><u>Ingrese su peso:</u></h4>
-        <p>70</p>
+     <tr>
+        <th>
+            <h4><u>Ingrese su peso:</u></h4>
+            <p>70</p>
         </th>
-            <th>
-        <h4><u>Ingrese su altura:</u></h4>
-        <p>1.70</p>
+        <th>
+            <h4><u>Ingrese su altura:</u></h4>
+            <p>1.70</p>
         </th>
-    <tr>
     </tr>
 </table>
-<hr>
-<h3>Ejemplo de ingreso de valores incorrecto:</h3>
+
+<h3>Ejemplo de ingreso de valores correcto:</h3>
 <table>
     <tr>
         <th>
-        <h4><u>Ingrese su peso:</u></h4>
-        <p>70 kg</p>
-        </th>       
+            <h4><u>Ingrese su peso:</u></h4>
+            <p>70 kg</p>
+        </th>
         <th>
-        <h4><u>Ingrese su altura:</u></h4>
-        <p>1,70 mts</p>
-        </th>       
+            <h4><u>Ingrese su altura:</u></h4>
+            <p>1,70 mts</p>
+        </th>
     </tr>
-            <th>
-        <h4><u>Ingrese su peso:</u></h4>
-        <p>70 kg</p>
+     <tr>
+        <th>
+            <h4><u>Ingrese su peso:</u></h4>
+            <p>70 kg</p>
         </th>
-            <th>
-        <h4><u>Ingrese su altura:</u></h4>
-        <p>1.70 mts</p>
+        <th>
+            <h4><u>Ingrese su altura:</u></h4>
+            <p>1.70 mts</p>
         </th>
-    <tr>
     </tr>
 </table>
+
 
 <hr>
 
@@ -199,4 +201,4 @@ Es importante aclarar que al momento de ingresar decimales se debe tener en cuen
         obesidad mórbida
         </td>
     </tr>
-</table># curso-java-cfp35-TP2
+</table>
