@@ -38,7 +38,7 @@ Es importante aclarar que al momento de ingresar decimales se debe tener en cuen
 </table>
 <hr>
 <table>
-<tr rowspan="2">
+<tr>
 <h3>Ejemplo de ingreso de valores incorrecto:</h3>
 </tr>
     <tr>
