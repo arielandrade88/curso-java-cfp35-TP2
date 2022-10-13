@@ -11,10 +11,8 @@ Para ejecutar el programa hay dos maneras de hacerlo:
 <p>La terminal ira guiando los valores que se deben ingresar (peso) y (altura). Al presionar la tecla ENTER el sistema devolverá el valor del IMC y el estado al que corresponde dicho valor. Solamente se debe ingresar numeros sin ningun tipo de medida específica.
 Es importante aclarar que al momento de ingresar decimales se debe tener en cuenta la configuración del sistema, e ingresar la coma ( , ) o el punto ( . ) para determinar los decimales.</p>
 
-<table>
-<tr rowspan="2">
 <h3>Ejemplo de ingreso de valores correcto:</h3>
-</tr>
+<table>
     <tr>
         <th>
         <h4><u>Ingrese su peso:</u></h4>
@@ -37,10 +35,8 @@ Es importante aclarar que al momento de ingresar decimales se debe tener en cuen
     </tr>
 </table>
 <hr>
-<table>
-<tr>
 <h3>Ejemplo de ingreso de valores incorrecto:</h3>
-</tr>
+<table>
     <tr>
         <th>
         <h4><u>Ingrese su peso:</u></h4>
@@ -87,7 +83,7 @@ Es importante aclarar que al momento de ingresar decimales se debe tener en cuen
 <hr>
 <table>
 <tr>
-<h3>Ejemplo de ingreso de valores correcto:</h3>
+<h3>Ejemplo de ingreso de valores incorrecto:</h3>
 </tr>
     <tr>
         <td>
